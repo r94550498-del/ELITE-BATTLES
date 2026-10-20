@@ -1,0 +1,6 @@
+{
+  "name": "ELITE BATTLES",
+  "description": "Premium Free Fire community tournament esports platform featuring registrations, room credentials, match schedules, live leaderboards, Kannada/English language support, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

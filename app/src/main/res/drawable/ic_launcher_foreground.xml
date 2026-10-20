@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glowing Outer Shield Contour -->
+    <path
+        android:fillColor="#33FF1744"
+        android:pathData="M54,22 L78,32 L78,58 C78,74 54,86 54,86 C54,86 30,74 30,58 L30,32 Z" />
+    
+    <!-- Primary Crimson Shield -->
+    <path
+        android:fillColor="#FF1744"
+        android:strokeColor="#FF5252"
+        android:strokeWidth="1.5"
+        android:pathData="M54,26 L74,34 L74,56 C74,70 54,81 54,81 C54,81 34,70 34,56 L34,34 Z" />
+
+    <!-- Inner Dark Core Shield -->
+    <path
+        android:fillColor="#150508"
+        android:pathData="M54,30 L69,37 L69,54 C69,65 54,75 54,75 C54,75 39,65 39,54 L39,37 Z" />
+
+    <!-- Blazing Fire Flame Center -->
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M54,36 C57,41 62,45 61,51 C60,56 56,58 54,64 C52,58 48,56 47,51 C46,45 51,41 54,36 Z" />
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M54,43 C56,46 58,49 57,53 C56,56 54,58 54,62 C54,58 52,56 51,53 C50,49 52,46 54,43 Z" />
+
+    <!-- Crossed Battle Blades / Esports Wings -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,65 L56,65 L56,71 L52,71 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M49,67 L59,67 L59,69 L49,69 Z" />
+
+    <!-- Left Wing Accent -->
+    <path
+        android:fillColor="#FF1744"
+        android:pathData="M24,40 L32,38 L30,52 L22,46 Z" />
+    <!-- Right Wing Accent -->
+    <path
+        android:fillColor="#FF1744"
+        android:pathData="M84,40 L76,38 L78,52 L86,46 Z" />
+</vector>
